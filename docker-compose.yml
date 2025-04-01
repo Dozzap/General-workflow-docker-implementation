@@ -1,0 +1,26 @@
+version: "3.8"
+services:
+  text2speech:
+    image: dozzap/workflow_published-text2speech:latest
+    ports:
+      - "5001:5000"
+  
+  conversion:
+    image: dozzap/workflow_published-conversion:latest
+    ports:
+      - "5002:5000"
+  
+  profanity: 
+    image: dozzap/workflow_published-profanity:latest
+    ports:
+      - "5003:5000"
+  
+  censor:
+    image: dozzap/workflow_published-censor:latest
+    ports:
+      - "5004:5000"
+  
+  compression:
+    image: dozzap/workflow_published-compression:latest
+    ports:
+      - "5005:5000"

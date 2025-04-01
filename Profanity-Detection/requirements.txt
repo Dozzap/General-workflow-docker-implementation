@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+better_profanity==0.7.0
+flask==2.2.5
+requests>=2.26.0
