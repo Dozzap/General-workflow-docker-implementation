@@ -1,5 +1,6 @@
-# Function dependencies, for example:
-# package>=version
 better_profanity==0.7.0
-flask==2.2.5
+Flask==2.2.5
 requests>=2.26.0
+SpeechRecognition>=3.8.1
+pydub==0.25.1
+ffmpeg-python>=0.2.0

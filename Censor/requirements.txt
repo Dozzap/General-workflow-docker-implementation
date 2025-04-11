@@ -2,4 +2,5 @@
 # package>=version
 pydub>=0.23.1
 numpy>=1.16.3
-flask>=2.0.0ffmpeg-python>=0.2.0
+flask>=2.0.0
+ffmpeg-python>=0.2.0
