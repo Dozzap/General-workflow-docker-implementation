@@ -2,7 +2,7 @@
 
 This repository provides a modular, Docker-based workflow composed primarily of Python components. It contains services and scripts for tasks including text censoring, compression, conversion, profanity detection, and text-to-speech synthesis.
 
-> **Note:** This overview is based on a partial file listing. For the full contents, check your repo in the [GitHub UI](https://github.com/Dozzap/General-workflow-docker-implementation/contents/).
+
 
 ## Directory Structure (Partial)
 
